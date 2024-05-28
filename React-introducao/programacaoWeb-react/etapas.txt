@@ -1,0 +1,7 @@
+cria um diretorio react e abre no visualStudio
+npm install -g create-react-app	
+npx create-react-app aula1-app
+Entra dentro do diretorio -> cd aula1-app
+npm start 
+
+tenho a pasta src, mas não tenho a pasta node_modules -> npm -i
